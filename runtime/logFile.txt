@@ -1,0 +1,487 @@
+[30-May-2022 16:44:01 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 31
+[30-May-2022 16:44:04 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 31
+[30-May-2022 16:44:09 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 31
+[30-May-2022 16:45:32 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:45:35 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:45:40 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:48:13 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:48:16 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:48:19 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 16:52:22 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 16:52:28 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 16:53:34 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 16:53:37 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 16:54:31 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 26
+[30-May-2022 16:54:33 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 26
+[30-May-2022 17:04:59 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:05:05 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:05:10 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:56:22 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:59:23 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:59:26 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 17:59:43 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:04:18 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:04:28 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:05:21 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:05:31 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:05:34 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:05:57 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:06:00 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:06:49 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 27
+[30-May-2022 18:06:58 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 27
+[30-May-2022 18:15:48 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 29
+[30-May-2022 18:16:22 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:16:26 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:17:08 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:18:53 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:19:04 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:24:27 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:24:37 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:27:38 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:28:33 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:29:49 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:31:05 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:31:28 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:31:39 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:32:06 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:32:09 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:32:10 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:32:10 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+[30-May-2022 18:32:30 UTC] PHP Warning:  file_put_contents(/Users/amirhan/Desktop/php project/PHP-MVC-Framework/core): Failed to open stream: Is a directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Logger.php on line 30
+error, couldn't solve request, at 2022-05-30 18:41:28
+error, couldn't solve request, at 2022-05-30 18:41:49
+error, couldn't solve request, at 2022-05-30 18:42:34
+error, couldn't solve request, at 2022-05-30 18:43:23
+error, couldn't solve request, at 2022-05-30 18:44:53
+error, couldn't solve request, at 2022-05-30 18:45:03
+error, couldn't solve request, at 2022-05-30 18:57:55
+error, couldn't solve request, at 2022-05-30 18:58:01
+error, couldn't solve request, at 2022-05-30 18:58:47
+error, can not solve request, at 2022-05-30 19:01:18
+error, can not solve request, at 2022-05-30 19:01:21
+error, can not solve request, at 2022-05-30 19:01:27
+error, can not solve request, at 2022-05-30 19:01:37
+error, can not solve request, at 2022-05-30 19:22:48
+error, can not solve request, at 2022-05-30 19:22:53
+error, can not solve request, at 2022-05-30 19:22:55
+error, can not solve request, at 2022-05-30 19:23:04
+error, can not solve request, at 2022-05-30 19:29:54
+error, can not solve request, at 2022-05-30 19:29:58
+error, can not solve request, at 2022-05-30 19:36:34
+error, can not solve request, at 2022-05-30 19:44:49
+[30-May-2022 19:45:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function app\models\User::__construct(), 3 passed in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/controllers/RegistrationController.php on line 24 and at least 4 expected in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/models/User.php:16
+Stack trace:
+#0 /Users/amirhan/Desktop/php project/PHP-MVC-Framework/controllers/RegistrationController.php(24): app\models\User->__construct('qwe', 'qwe', 'qwe')
+#1 [internal function]: app\controllers\RegistrationController->registration(Object(app\core\Request))
+#2 /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Router.php(43): call_user_func(Array, Object(app\core\Request))
+#3 /Users/amirhan/Desktop/php project/PHP-MVC-Framework/core/Application.php(32): app\core\Router->resolve()
+#4 /Users/amirhan/Desktop/php project/PHP-MVC-Framework/web/index.php(32): app\core\Application->run()
+#5 {main}
+  thrown in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/models/User.php on line 16
+error, can not solve request, at 2022-05-30 19:45:45
+[30-May-2022 20:41:45 UTC] PHP Warning:  include(style/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+[30-May-2022 20:41:45 UTC] PHP Warning:  include(): Failed opening 'style/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+error, can not solve request, at 2022-05-30 20:41:45
+[30-May-2022 20:55:23 UTC] PHP Warning:  include(css/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+[30-May-2022 20:55:23 UTC] PHP Warning:  include(): Failed opening 'css/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+error, can not solve request, at 2022-05-30 20:55:23
+[30-May-2022 20:55:25 UTC] PHP Warning:  include(css/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+[30-May-2022 20:55:25 UTC] PHP Warning:  include(): Failed opening 'css/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 22
+error, can not solve request, at 2022-05-30 20:55:25
+error, can not solve request, at 2022-05-30 21:02:46
+[30-May-2022 21:08:00 UTC] PHP Warning:  include(style/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+[30-May-2022 21:08:00 UTC] PHP Warning:  include(): Failed opening 'style/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+error, can not solve request, at 2022-05-30 21:08:00
+[30-May-2022 21:08:03 UTC] PHP Warning:  include(style/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+[30-May-2022 21:08:03 UTC] PHP Warning:  include(): Failed opening 'style/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+error, can not solve request, at 2022-05-30 21:08:03
+[30-May-2022 21:08:57 UTC] PHP Warning:  include(style/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+[30-May-2022 21:08:57 UTC] PHP Warning:  include(): Failed opening 'style/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+error, can not solve request, at 2022-05-30 21:08:57
+[30-May-2022 21:08:59 UTC] PHP Warning:  include(style/presentation.css): Failed to open stream: No such file or directory in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+[30-May-2022 21:08:59 UTC] PHP Warning:  include(): Failed opening 'style/presentation.css' for inclusion (include_path='.:/Users/amirhan/pear/share/pear') in /Users/amirhan/Desktop/php project/PHP-MVC-Framework/views/welcome.php on line 21
+error, can not solve request, at 2022-05-30 21:08:59
+error, can not solve request, at 2022-05-30 21:09:19
+error, can not solve request, at 2022-05-30 21:10:16
+error, can not solve request, at 2022-05-30 21:10:30
+error, can not solve request, at 2022-05-30 21:10:38
+error, can not solve request, at 2022-05-30 21:10:41
+error, can not solve request, at 2022-05-30 21:12:17
+error, can not solve request, at 2022-05-30 21:13:45
+error, can not solve request, at 2022-05-30 21:13:58
+error, can not solve request, at 2022-05-30 21:14:40
+error, can not solve request, at 2022-05-30 21:15:01
+error, can not solve request, at 2022-05-30 21:15:03
+error, can not solve request, at 2022-05-30 21:15:09
+error, can not solve request, at 2022-05-30 21:15:18
+error, can not solve request, at 2022-05-30 21:17:39
+error, can not solve request, at 2022-05-30 21:18:23
+error, can not solve request, at 2022-05-30 21:18:34
+error, can not solve request, at 2022-05-30 21:18:49
+error, can not solve request, at 2022-05-30 21:19:07
+error, can not solve request, at 2022-05-30 21:21:13
+error, can not solve request, at 2022-05-30 21:22:43
+error, can not solve request, at 2022-05-30 21:22:45
+error, can not solve request, at 2022-05-30 21:23:36
+error, can not solve request, at 2022-05-30 21:24:02
+error, can not solve request, at 2022-05-30 21:24:25
+error, can not solve request, at 2022-05-30 21:24:29
+error, can not solve request, at 2022-05-30 21:24:35
+error, can not solve request, at 2022-05-30 21:24:41
+error, can not solve request, at 2022-05-30 21:24:49
+error, can not solve request, at 2022-05-30 21:24:54
+error, can not solve request, at 2022-05-30 21:26:35
+error, can not solve request, at 2022-05-30 21:33:16
+error, can not solve request, at 2022-05-30 21:34:49
+error, can not solve request, at 2022-05-30 21:38:34
+error, can not solve request, at 2022-05-30 21:38:42
+error, can not solve request, at 2022-05-30 21:38:46
+error, can not solve request, at 2022-05-30 21:39:42
+error, can not solve request, at 2022-05-30 21:54:45
+error, can not solve request, at 2022-05-30 22:08:48
+error, can not solve request, at 2022-05-30 22:08:49
+error, can not solve request, at 2022-05-31 05:41:38
+error, can not solve request, at 2022-05-31 05:50:04
+error, can not solve request, at 2022-05-31 08:19:11
+error, can not solve request, at 2022-05-31 08:25:55
+error, can not solve request, at 2022-05-31 09:17:59
+error, can not solve request, at 2022-05-31 09:48:06
+error, can not solve request, at 2022-05-31 10:32:15
+error, can not solve request, at 2022-05-31 11:05:54
+error, can not solve request, at 2022-05-31 11:07:51
+error, can not solve request, at 2022-05-31 11:08:39
+error, can not solve request, at 2022-05-31 11:14:30
+error, can not solve request, at 2022-05-31 11:15:11
+error, can not solve request, at 2022-05-31 11:15:12
+error, can not solve request, at 2022-05-31 11:15:22
+error, can not solve request, at 2022-05-31 11:19:42
+error, can not solve request, at 2022-05-31 11:54:05
+error, can not solve request, at 2022-05-31 12:15:52
+error, can not solve request, at 2022-05-31 12:34:22
+error, can not solve request, at 2022-05-31 12:43:02
+error, can not solve request, at 2022-05-31 12:43:43
+error, can not solve request, at 2022-05-31 12:44:08
+error, can not solve request, at 2022-05-31 12:44:25
+error, can not solve request, at 2022-05-31 12:44:32
+error, can not solve request, at 2022-05-31 12:44:42
+error, can not solve request, at 2022-05-31 13:19:32
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-02 14:41:10
+error, can not solve request, at 2022-06-02 14:41:10
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-02 14:41:10
+error, can not solve request, at 2022-06-02 14:41:10
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-02 14:41:10
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-02 14:41:10
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:36:17
+error, can not solve request, at 2022-06-03 17:36:17
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:36:17
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:37:51
+error, can not solve request, at 2022-06-03 17:37:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:37:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:07
+error, can not solve request, at 2022-06-03 17:38:07
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:07
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:30
+error, can not solve request, at 2022-06-03 17:38:30
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:30
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:30
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:32
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:32
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:32
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:36
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:36
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:37
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:37
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:37
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:44
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:44
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:46
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:38:46
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:52:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:52:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:52:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:30
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:30
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:33
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:33
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:33
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:46
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:50
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:50
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-03 17:53:51
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-04 12:35:46
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-04 12:35:46
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-04 12:35:46
+error, can not solve request, at 2022-06-04 12:53:12
+error, can not solve request, at 2022-06-04 19:39:36
+error, can not solve request, at 2022-06-04 19:39:49
+error, can not solve request, at 2022-06-04 19:40:01
+error, can not solve request, at 2022-06-04 19:40:23
+error, can not solve request, at 2022-06-04 19:41:53
+error, can not solve request, at 2022-06-04 19:41:56
+error, can not solve request, at 2022-06-04 21:44:08
+error, can not solve request, at 2022-06-04 21:44:17
+error, can not solve request, at 2022-06-04 21:45:24
+error, can not solve request, at 2022-06-04 21:45:32
+error, can not solve request, at 2022-06-04 21:48:48
+error, can not solve request, at 2022-06-04 21:50:57
+error, can not solve request, at 2022-06-04 21:51:19
+error, can not solve request, at 2022-06-04 21:51:22
+error, can not solve request, at 2022-06-04 21:51:36
+error, can not solve request, at 2022-06-04 21:57:59
+error, can not solve request, at 2022-06-04 21:58:04
+error, can not solve request, at 2022-06-05 19:37:07
+error, can not solve request, at 2022-06-06 21:50:32
+error, can not solve request, at 2022-06-06 21:50:32
+error, can not solve request, at 2022-06-06 21:50:32
+error, can not solve request, at 2022-06-06 21:50:32
+error, can not solve request, at 2022-06-06 21:50:52
+error, can not solve request, at 2022-06-07 08:07:07
+error, can not solve request, at 2022-06-07 14:49:40
+error, can not solve request, at 2022-06-07 14:49:40
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:11
+error, can not solve request, at 2022-06-10 20:48:11
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:11
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:11
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:15
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:15
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:15
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:17
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:17
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:18
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:19
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:19
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:22
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:22
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:24
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:24
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:24
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:26
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:26
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:34
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:39
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:39
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:39
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:42
+error, SQLSTATE[08006] [7] connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?, at 2022-06-10 20:48:42
+error, can not solve request, at 2022-06-24 21:43:48
+error, can not solve request, at 2022-06-24 21:43:48

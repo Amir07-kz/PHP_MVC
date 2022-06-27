@@ -1,0 +1,5 @@
+username:123
+email:ewww
+password:123
+password2:123
+signup_submit:Sign up
